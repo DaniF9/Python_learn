@@ -1,11 +1,21 @@
 #from  datetime import date
 #print("El dia de hoy es : ", date.today())
-
 import datetime 
 print("La fecha de hoy es : " , datetime.date.today())
-
 print("Hola este es un mensaje para ver si se actualiza todo el contenido ")
 
+#Como segundo programa haremos un na suma la cual sumara 2 numeros que seran ingresados por el usuario
+print(" Bienvenido al segundo programa ")
+a=input("Ingrese el primer numero : ")
+b=input("Ïngrese el segundo numero : ")
+d=input("Ingrese el tercer numero : ")
+c=int(a)+int(b)+float(d)
+print("El resultado de la suma es : " , c)
 
+#Hacemos un if para verificar si es corrector nuestro resultado
+if c <20:
+    print(True)
+else:
+    print(False)
 
 
