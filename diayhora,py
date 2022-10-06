@@ -4,6 +4,8 @@
 import datetime 
 print("La fecha de hoy es : " , datetime.date.today())
 
+print("Hola este es un mensaje para ver si se actualiza todo el contenido ")
+
 
 
 
