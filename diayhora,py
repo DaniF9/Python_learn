@@ -1,3 +1,9 @@
-from  datetime import date
-print("El dia de hoy es : ", date.today())
+#from  datetime import date
+#print("El dia de hoy es : ", date.today())
+
+import datetime 
+print("La fecha de hoy es : " , datetime.date.today())
+
+
+
 
