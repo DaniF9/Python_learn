@@ -4,3 +4,13 @@
 
 palabra = input(" INGRESA TU NOMBRE : ")
 print("! Hola",palabra,"!")
+
+print("  !! NUEVO PROGRAMA APRENDIENDO PYTHON REALIZADO DESDE VISUAL STUDIO CODE EN WINDOWS !!")
+
+hora = input("Ingrese el numero de horas trabajadas  : ")
+precio_hora = input("Ingrese la cantidad cobra por hora : ")
+
+paga = int(hora) * int(precio_hora)
+
+print("Hola " , palabra , " Tu pagas total es de : " , paga , "Pesos mexicanos")
+
