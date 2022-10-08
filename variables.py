@@ -14,5 +14,7 @@ print(my_boolean_2)
 
 print(my_string , my_int , my_float )
 
-
-print ("Me quede en 1 hora con 4 minutos ")
+#Puedo seguir escribiendo con una misma linea de codigo con lo siguiente
+print("Este es un ejemplos \
+    de como escribimos codigo en una misma linea y que es muy largo")
+    
