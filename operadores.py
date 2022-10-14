@@ -42,3 +42,4 @@ print(type(numero2))
 '''problema que me encontre al hacer este if al inicio no declaraba las variables como enteras por lo cual las dejaba como string
 entonces al momento de hacer el if se invertia la comparacion ya que los leia de tipo string y no de tipo entero
 alo cual la solucion fue al pedir el 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 numero ya declarar como tipo entero  numero1 = int(input("ingrese el numero 1"))'''
+#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
